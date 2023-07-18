@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" 
  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student 
+## I'm a Computer Science Engineering  
 - 👨‍💻 I’m currently learning Android Development using Kotlin   
 - 💪🏼 Future Goals: Build useful apps and contribute to open source Android projects.
 - ⚡ Fun fact: I love to play football in my free time.
