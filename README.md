@@ -1,7 +1,10 @@
 # Hi I'm Ali   <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />   
-
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=abuhussien28.abuhussien28" alt="abuhussien28" />
+		   <img src="https://img.shields.io/github/followers/abuhussien28?label=Followers" alt="abuhussien28" />
+</p>
 <img align="right" alt="GIF" height="160px" 
  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+ 
 
 ## I'm a Computer Science Engineering  
 - 👨‍💻 I’m currently learning Android Development using Kotlin   
@@ -39,4 +42,9 @@
 </div
 <br/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abuhussien28.abuhussien28)
+
+
+
+<br/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhussien28&theme=tokyonight_duo" alt="abuhussien28" /></p>
+<br/>
