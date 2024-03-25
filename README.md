@@ -19,16 +19,23 @@
 <br />
 ---
 
-##### Languages I learn
+##### Languages and Tools Used : 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
 ![kotlin](https://img.shields.io/badge/-Kotlin-181717?style=flat-square&logo=Kotlin)
-![android](https://img.shields.io/badge/-android-181717?style=flat-square&logo=android)
+![android](https://img.shields.io/badge/-Android-181717?style=flat-square&logo=Android)
+![Arduino](https://img.shields.io/badge/-Arduino-181717?style=flat-square&logo=Arduino)
+![Arduino](https://img.shields.io/badge/-Arduino-181717?style=flat-square&logo=Arduino)
+![jupyter](https://img.shields.io/badge/-jupyter-181717?style=flat-square&logo=jupyter)
+![Eclipse](https://img.shields.io/badge/-Eclipse-181717?style=flat-square&logo=Eclipse)
+
+![Proteus](https://img.shields.io/badge/-Proteus-181717?style=flat-square&logo=Proteus)
+ 
 <br/>
   <h2 align="center"> Github Statistics 📈 </h2>
   
