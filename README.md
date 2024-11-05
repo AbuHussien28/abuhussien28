@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to play football in my free time.
 
 ### Contact with me 📝
-<a href="https://www.linkedin.com/in/ali-abuhussien-2595b2224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/ali-abu-hussien-2595b2224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/abuhussien28/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/AliMohamedAliAbuHussien" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.youtube.com/channel/UCR3oujDReXG1T6VqHxUjxdQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
