@@ -24,14 +24,22 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-
+![Html5](https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![c](https://img.shields.io/badge/C-181717?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-181717?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-181717?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![kotlin](https://img.shields.io/badge/-Kotlin-181717?style=flat-square&logo=Kotlin)
+
 ![android](https://img.shields.io/badge/-Android-181717?style=flat-square&logo=Android)
 ![Arduino](https://img.shields.io/badge/-Arduino-181717?style=flat-square&logo=Arduino)
+![Proteus](https://img.shields.io/badge/-Proteus-181717?style=flat-square&logo=Proteus)
 ![jupyter](https://img.shields.io/badge/-jupyter-181717?style=flat-square&logo=jupyter)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-181717?style=flat-square&logo=Eclipse)
+![MongoDB](https://img.shields.io/badge/MongoDB-181717?=flat-squar&logo=mongodb&logoColor=white)
 
-![Proteus](https://img.shields.io/badge/-Proteus-181717?style=flat-square&logo=Proteus)
+
  
 <br/>
   <h2 align="center"> Github Statistics 📈 </h2>
